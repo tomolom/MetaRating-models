@@ -1,7 +1,7 @@
 {
   "game": "fc27",
   "base_url": "https://api-fc27.easysbc.io",
-  "fetched_at": "2026-10-21T10:47:34+00:00",
+  "fetched_at": "2026-10-21T12:44:45+00:00",
   "attribute_names": [
     "acceleration",
     "sprintSpeed",
@@ -11552,6 +11552,6 @@
     "chemstyles": "80732f0c53c7f0cea1c6305d7b98c444821606a7966e042770de28065c0ad823",
     "roles": "285fb0fcbe7cf7ea0c2721137715718cda6e91c83538297112ad11b1884d20ba",
     "play_styles": "bebb7b3afcc226fd1b99f7d5b95fb6627aee24043f619d07de46657a3df9e804",
-    "snapshot": "c113a3f8679aa989d62047faf925dc8b47e40486ba329b0ce011f762afd58c0b"
+    "snapshot": "bd554a924bc65812e5e5713cbdb3bd2a5b124e9400f55f01a56ea51892991be1"
   }
 }

@@ -8,8 +8,8 @@
     "cards_fetched": 20160,
     "cards_missing": 0,
     "failures": [],
-    "started_at": "2026-10-21T10:47:34+00:00",
-    "finished_at": "2026-10-21T10:54:46+00:00",
+    "started_at": "2026-10-21T12:44:45+00:00",
+    "finished_at": "2026-10-21T12:49:14+00:00",
     "page_coverage": 1.0,
     "card_coverage": 1.0
   },
@@ -28,8 +28,8 @@
       "cards_fetched": 20160,
       "cards_missing": 0,
       "failures": [],
-      "started_at": "2026-10-21T10:47:34+00:00",
-      "finished_at": "2026-10-21T10:54:46+00:00",
+      "started_at": "2026-10-21T12:44:45+00:00",
+      "finished_at": "2026-10-21T12:49:14+00:00",
       "page_coverage": 1.0,
       "card_coverage": 1.0
     }
@@ -44,27 +44,27 @@
       "roles_fitted": 49,
       "roles_catalogued": 49,
       "thinnest_role_players": 2190,
-      "mean_rmse": 0.2006605155682165,
-      "worst_role_rmse": 0.33445357551711075,
-      "worst_role": 44,
-      "mean_mae": 0.14152690587198533,
+      "mean_rmse": 0.15665197907098696,
+      "worst_role_rmse": 0.229421953702267,
+      "worst_role": 7,
+      "mean_mae": 0.10187048930116782,
       "baseline_mean_mae": 0.36284556560887826,
-      "mae_improvement_over_baseline": 0.22131865973689294,
-      "bootstrap_upper": -0.21946026324939555,
+      "mae_improvement_over_baseline": 0.26097507630771044,
+      "bootstrap_upper": -0.2590494446838783,
       "macro_rmse_improved": true,
-      "maximum_role_mae_regression": -0.0970216310381214,
+      "maximum_role_mae_regression": -0.11660674459156338,
       "tail_distinct_assets": 224,
-      "tail_mae": 0.48392393165369146,
-      "tail_mae_regression": -0.31611232802297634,
+      "tail_mae": 0.4689417599651063,
+      "tail_mae_regression": -0.3310944997115615,
       "unknown_prediction_inputs": 0,
-      "final_fit_peak_rss_bytes": 4245671936.0,
-      "final_fit_elapsed_seconds": 33.52882419998059,
-      "benchmark_peak_rss_bytes": 4613959680.0,
-      "benchmark_elapsed_seconds": 991.058026099985
+      "final_fit_peak_rss_bytes": 4537667584.0,
+      "final_fit_elapsed_seconds": 108.92847270000493,
+      "benchmark_peak_rss_bytes": 4536160256.0,
+      "benchmark_elapsed_seconds": 2294.410104499955
     }
   },
   "drift": {
     "status": "skipped",
-    "reason": "published model cannot be read by this code: data\\fc27\\latest\\models.json is a schema 3 artifact; this code reads schema 5. Run `metarating update` to produce one."
+    "reason": "published model cannot be read by this code: candidate is not one of the two fixed residual configurations"
   }
 }
